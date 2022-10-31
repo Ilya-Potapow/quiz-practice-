@@ -1,4 +1,4 @@
 # quiz-practice-
 
-## [link](https://ilya-potapow.github.io/Nuntium-blog/)
+## [link](https://ilya-potapow.github.io/quiz-practice-/)
 
